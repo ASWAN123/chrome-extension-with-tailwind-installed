@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "my extension",
+    "version": "1.0",
+    "description": "Description of your extension",
+    "permissions": [
+      ""
+    ],
+    "action": {
+      "default_popup": "src/popup.html"
+    }
+
+
+  }
+  
