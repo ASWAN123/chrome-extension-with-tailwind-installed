@@ -1,2 +1,2 @@
 npx tailwindcss -i ./src/style.css -o ./dist/output.css --watch
-use  this  to  keep  convert  shit  working
+use  this  to  the  styling  working
